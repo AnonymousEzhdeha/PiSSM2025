@@ -4,7 +4,7 @@ Submission for NeurIPS 2024, the Thirty-eighth Annual Conference on Neural Infor
 
 ## Framework
 
-![image](./Figs/filtering_smoothing.png)
+![image](./Figs/filtering_smoothing.jpg)
 
 ## Demo (sequence generation and image imputation)
 
