@@ -1,6 +1,6 @@
-# Gated Inference Network: Inferencing and Learning State-Space Models
+# Parameterized Inference SSMs
 This is a, commented version of the Code used for the experiments described in the paper.
-Submission for NeurIPS 2024, the Thirty-eighth Annual Conference on Neural Information Processing Systems 
+Submission for ICML 2025
 
 ## Framework
 
